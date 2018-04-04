@@ -1,3 +1,5 @@
+# CCPBioSim Bristol Training Week
+
 Event Dates: From Monday April 9th 2018 to Friday 13th April 2018
 
 ## Location
