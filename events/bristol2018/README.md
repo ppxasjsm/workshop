@@ -17,12 +17,12 @@ course is aimed at a different topic and is [booked individually](http://www.cve
 
 ## Information
 
-* [Code of conduct](conduct.md)
-* [Workshop server / how to download and use at home](server.md)
+* [Code of conduct](conduct)
+* [Workshop server / how to download and use at home](server)
 
 You can talk with each other and the trainers using the 
-[workshop etherpad](https://etherpad.net/p/ccpbiosim_bristol18). Please
-keep discussion respectful and remember the [code of conduct](conduct.md).
+<a href="https://etherpad.net/p/ccpbiosim_bristol18" target="_blank">workshop etherpad</a>. Please
+keep discussion respectful and remember the [code of conduct](conduct).
 
 ## Programme
 
