@@ -55,3 +55,7 @@ keep discussion respectful and remember the [code of conduct](conduct.md).
 * 10.00 - 13.00 : [QM/MM Modelling of Enzyme Reactions]()
 * 13.00 - 14.30 : Lunch
 * 14.30 - 17.30 : [Calculating Water Affinities in Protein Binding Sites with Grand Canonical Monte Carlo and ProtoMS]()
+
+## Etherpad
+
+<iframe name="embed_readwrite" src="https://etherpad.net/p/ccpbiosim_bristol18?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
