@@ -11,7 +11,8 @@ Here are the workshops that are available online as self-guided workshops.
 
 * [Python for Biomolecular Modellers](https://ccpbiosim.github.io/python_and_data)
 * [Setting up and Running Molecular Dynamics Simulations: Good Practice and Pitfalls](https://ccpbiosim.github.io/md_workshop)
-* [Tackling Protein alchemistry with FESetup and Sire SOMD](https://ccpbiosim.github.io](https://ccpbiosim.github.io/fesetup_workshop)
+* [Tackling Protein alchemistry with FESetup and Sire SOMD](https://ccpbiosim.github.io/fesetup_workshop)
+* [Alchemical Free Energy Simulation Analysis with analyse_freenrg](https://ccpbiosim.github.io/fe_workshop)
 * [Introduction to BioSimSpace](https://ccpbiosim.github.io/biosimspace_workshop)
 * [Visualising Binding Free Energies using Swap-Based Methods](https://ccpbiosim.github.io/xswaps)
 
