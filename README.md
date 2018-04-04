@@ -5,7 +5,7 @@ material and by running specific training workshop events.
 
 * [Bristol 2018 Training Week](events/bristol2018/README.md)
 
-## Training resources
+## Training resources
 
 Here are the workshops that are available online as self-guided workshops.
 
