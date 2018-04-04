@@ -9,8 +9,6 @@ Event Dates: From Monday April 9th 2018 to Friday 13th April 2018
 * Monday 9th April: Room E2.1 Computer Lab: Chemistry Patio Upper Courtyard, Biomedical Sciences Building
 * Tuesday 10th-Friday 13th April: Room W414, Chemistry Building
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.0865107202135!2d-2.6013287950617205!3d51.45656806313042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48718dd997adbe91%3A0x40d7b318bddabb20!2sSchool+of+Chemistry%2C+Senate+House%2C+Tyndall+Ave%2C+Bristol+BS8+1TH!5e0!3m2!1sen!2suk!4v1522840783910" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
 ## Summary
 
 This CCPBioSim training week is a series of half day training workshops aimed 
