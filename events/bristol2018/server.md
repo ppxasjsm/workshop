@@ -32,6 +32,14 @@ Note that you will be kept logged in for as long as the server page is open in y
 
 Also please note that all of your files will be deleted after you log out from the server. There is no way for us to save or retrieve your files. Please ensure you download anything you need before logging out.
 
+## Browser compatibility
+
+The 3D molecule viewer embedded in the Jupyter notebooks requires that you 
+access the workshop using a modern browser that supports WebSockets (e.g
+chrome, firefox, safari, edge and modern versions of internet explorer).
+You can test if your browser supports WebSockets by 
+<a href="http://websocketstest.com" target="_blank">visiting this page</a>.
+
 ## Server details
 
 Once logged in, you will find a [JupyterHub](https://jupyter.org) browser with directories for all of the workshops. The instructions that come with each workshop will tell you which directory to use.
