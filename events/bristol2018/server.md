@@ -18,11 +18,11 @@ Again, do not click this link multiple times as you will block the server.
 
 If you accidentally close the browser page you can reconnect to the server with your existing login using the below link (opens in new tab):
 
-<a href="http://workshop.biosimspace.org">Reconnect to server</a>
+<a href="http://workshop.biosimspace.org" target="_blank">Reconnect to server</a>
 
 or
 
-<a href="http://52.224.106.164">Reconnect to backup server</a>
+<a href="http://52.224.106.164" target="_blank">Reconnect to backup server</a>
 
 ## Logging out when you are finished
 
@@ -66,9 +66,16 @@ The workshop image will be updated over time. To get the latest version please r
 docker pull chryswoods/bss-workshop:latest
 ```
 
+You should also run the command 
+
+```
+update_workshops
+```
+
+inside the bash terminal in the Jupyter session to ensure that you have updated the workshop material itself to the latest version.
+
 If you are running the image on a Mac in OS X, then be aware that the OS X version of docker can silently corrupt libraries. If you find that Python modules cannot import because the library is not recognised as "elf", then you need to re-install the module. For example, if `mdtraj` cannot import, then you can reinstall using
 
 ```
 conda install mdtraj
 ```
-

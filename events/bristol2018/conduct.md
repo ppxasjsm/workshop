@@ -11,7 +11,7 @@ Attendees violating these rules may be asked to leave the workshop at the sole d
 
 Thank you for helping make this a welcoming, friendly event for all.
 
-## The Longer Version
+## The Longer Version
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of training or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
@@ -20,7 +20,7 @@ Be careful in the words that you choose. Remember that sexist, racist, and other
 
 If a participant engages in behavior that violates this code of conduct, the workshop organisers may take any action they deem appropriate, including warning the offender or expulsion from the workshop.
 
-## Reporting harassment
+## Reporting harassment
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, you should contact one of the workshop organisers. Should a harrassment incident take place, reporting should preferably be in writing. When reporting the incident, try to provide as much information as possible. A workshop organiser can assist you in writing the report or collecting the information. Please do not interview people about the incident, but leave this to a workshop organiser. Note that all reports will be confidential.
 
 Important information to be recorded consists of:
