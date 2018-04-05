@@ -1,4 +1,6 @@
-# CCPBioSim Bristol Training Week
+![CCPBioSim logo](../../images/ccpbiosim_logo.png)
+
+# [CCPBioSim](https://ccpbiosim.ac.uk) Bristol Training Week
 
 Event Dates: From Monday April 9th 2018 to Friday 13th April 2018
 
@@ -40,9 +42,9 @@ keep discussion respectful and remember the [code of conduct](https://ccpbiosim.
 
 ### Wednesday 11th April - Room W414, Chemistry Building
 
-* 10.00 - 13.00 : [Alchemical Free Energy Simulation Analysis with analyse_freenrg](https://ccpbiosim.github.io/analyse_freenrg_workshop)
+* 10.00 - 13.00 : [Alchemical Free Energy Simulation Analysis with analyse_freenrg](https://ccpbiosim.github.io/fe_analysis)
 * 13.00 - 14.30 : Lunch
-* 14.30 - 17.30 : [ISAMBARD: A Python-based API for Biomolecular Structure Analysis and Parametric Design of Protein Structures]()
+* 14.30 - 17.30 : [ISAMBARD: A Python-based API for Biomolecular Structure Analysis and Parametric Design of Protein Structures](https://ccpbiosim.github.io/isambard_workshop)
 
 ### Thursday 12th April - Room W414, Chemistry Building
 
@@ -52,6 +54,6 @@ keep discussion respectful and remember the [code of conduct](https://ccpbiosim.
 
 ### Friday 13th April - Room W414, Chemistry Building
 
-* 10.00 - 13.00 : [QM/MM Modelling of Enzyme Reactions]()
+* 10.00 - 13.00 : [QM/MM Modelling of Enzyme Reactions](https://ccpbiosim.github.io/qmmm_workshop)
 * 13.00 - 14.30 : Lunch
-* 14.30 - 17.30 : [Calculating Water Affinities in Protein Binding Sites with Grand Canonical Monte Carlo and ProtoMS]()
+* 14.30 - 17.30 : [Calculating Water Affinities in Protein Binding Sites with Grand Canonical Monte Carlo and ProtoMS](https://ccpbiosim.github.io/gcmc_protoms_workshop)
