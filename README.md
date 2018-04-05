@@ -1,4 +1,6 @@
-CCPBioSim provides training workshops, both by hosting self-guided online
+![CCPBioSim logo](images/ccpbiosim_logo.png)
+
+[CCPBioSim](https://ccpbiosim.ac.uk) provides training workshops, both by hosting self-guided online
 material and by running specific training workshop events.
 
 ## Upcoming events
@@ -15,4 +17,6 @@ Here are the workshops that are available online as self-guided workshops.
 * [Alchemical Free Energy Simulation Analysis with analyse_freenrg](https://ccpbiosim.github.io/fe_workshop)
 * [Introduction to BioSimSpace](https://ccpbiosim.github.io/biosimspace_workshop)
 * [Visualising Binding Free Energies using Swap-Based Methods](https://ccpbiosim.github.io/xswaps)
-
+* [ISAMBARD: A Python-based API for Biomolecular Structure Analysis and Parametric Design of Protein Structures](https://ccpbiosim.github.io/isambard_workshop)
+* [QM/MM Modelling of Enzyme Reactions](https://ccpbiosim.github.io/qmmm_workshop)
+* [Calculating Water Affinities in Protein Binding Sites with Grand Canonical Monte Carlo and ProtoMS](https://ccpbiosim.ac.uk/gcmc_protoms_workshop)
