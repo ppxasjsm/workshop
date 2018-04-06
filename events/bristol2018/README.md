@@ -8,8 +8,9 @@ Event Dates: From Monday April 9th 2018 to Friday 13th April 2018
 
 [University of Bristol, Cantock's Close, Bristol, BS8 1TS](https://goo.gl/maps/qF8VTFMuYRC2)
 
-* Monday 9th April: Room E2.1 Computer Lab: Chemistry Patio Upper Courtyard, Biomedical Sciences Building
-* Tuesday 10th-Friday 13th April: Room W414, Chemistry Building
+[Room W414, Chemistry Building](room.md)
+
+[(instructions to find the room)](room.md)
 
 ## Summary
 
