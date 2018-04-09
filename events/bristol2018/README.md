@@ -29,7 +29,7 @@ keep discussion respectful and remember the [code of conduct](https://ccpbiosim.
 
 ## Programme
 
-### Monday 9th April - Room E2.1, Biomedical Sciences Building
+### Monday 9th April - Room W414, Chemistry Building
 
 * 11.00 - 13.00 : [Python for Biomolecular Modellers Part 1](https://ccpbiosim.github.io/python_and_data)
 * 13.00 - 14.30 : Lunch
