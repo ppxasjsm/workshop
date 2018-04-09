@@ -4,6 +4,11 @@
 
 Event Dates: From Monday April 9th 2018 to Friday 13th April 2018
 
+## Feedback Survey
+
+Please fill in this [feedback survey](feedback.md) when you complete each
+workshop.
+
 ## Location
 
 [University of Bristol, Cantock's Close, Bristol, BS8 1TS](https://goo.gl/maps/qF8VTFMuYRC2)
