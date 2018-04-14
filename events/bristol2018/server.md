@@ -8,21 +8,11 @@ This has been configured to provide enough resource for *up to 40 people* to log
 
 Please only click this once, as it will log you into a new session. This may take between 30-60 seconds, so please be patient. *DO NOT CLICK MULTIPLE TIMES*, else you will launch too many sessions and will block anyone else from connecting.
 
-If you are unable to connect to the main server, the you can use the backup. Click below to log into the backup server (will open in new tab):
-
-<a href="http://52.224.106.164/hub/tmplogin" target="_blank">Login to backup server</a>
-
-Again, do not click this link multiple times as you will block the server.
-
 ## Reconnecting to the server
 
 If you accidentally close the browser page you can reconnect to the server with your existing login using the below link (opens in new tab):
 
 <a href="http://workshop.biosimspace.org" target="_blank">Reconnect to server</a>
-
-or
-
-<a href="http://52.224.106.164" target="_blank">Reconnect to backup server</a>
 
 ## Logging out when you are finished
 
