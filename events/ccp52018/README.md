@@ -33,11 +33,7 @@ Introduction to BioSimSpace : Continuing on the [workshop server](https://ccpbio
 navigate to the `biosimspace_workshop` folder. Follow the lessons in order from
 `01_introduction.ipynb` to `04_molecular_setup.ipynb`.
 
-* Afternoon : MD Analysis
-
-Connect to the [workshop server](https://ccpbiosim.github.io/workshop/events/ccp52018/server.html)
-and navigate to the `md_workshop` folder. All of the material is here, as will be
-described during the lecture.
+* Afternoon : [Setting up and Running Molecular Dynamics Simulations: Good Practice and Pitfalls](https://ccpbiosim.github.io/md_workshop/)
 
 ### Tuesday 17th July
 
