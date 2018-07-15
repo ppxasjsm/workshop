@@ -1,38 +1,35 @@
 # Workshop Server (and how to download at home)
 
-The workshops are running on a set of cloud servers provided by the [Microsoft Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/).
+The workshops are running on a set of cloud servers provided by the [Oracle Cloud Infrastructure](https://cloud.oracle.com/home) and the [Microsoft Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/).
 
-This has been configured to provide enough resource for *up to 40 people* to log in at the same time. There are no usernames or passwords. To log in, please click the below link (will open in new tab):
+These have been configured to provide enough resource for lots of people to log in at the same time (the Oracle server has 72 virtual cores and 256 GB RAM!). There are no usernames or passwords. To log in, please click the below link (will open in new tab):
 
-<a href="http://137.117.134.245/hub/tmplogin" target="_blank">Login to server</a>
+<a href="http://130.61.69.221/hub/tmplogin" target="_blank">Log in to the Oracle server</a>
 
-Please only click this once, as it will log you into a new session. This may take between 30-60 seconds, so please be patient. *DO NOT CLICK MULTIPLE TIMES*, else you will launch too many sessions and will block anyone else from connecting.
+Please only click this once, as it will log you into a new session. This may take between 30-60 seconds, so please be patient. *DO NOT CLICK MULTIPLE TIMES*, else you will launch too many sessions and may block anyone else from connecting.
 
 ## Reconnecting to the server
 
 If you accidentally close the browser page you can reconnect to the server with your existing login using the below link (opens in new tab):
 
-<a href="http://137.117.134.245" target="_blank">Reconnect to server</a>
+<a href="http://130.61.69.221" target="_blank">Reconnect to the Oracle server</a>
 
 ## Logging out when you are finished
 
 *PLEASE LOG OUT WHEN YOU ARE FINISHED*. You can log out by clicking on the "Logout" icon in the top right of the screen. Logging out will free up your session so that it can be used by someone else.
 
-Note that you will be kept logged in for as long as the server page is open in your browser. You will only be automatically logged out about 40 minutes after you have closed the server page. 
+Note that you will be kept logged in for as long as the server page is open in your browser. You will only be automatically logged out about 60 minutes after you have closed the server page. 
 
 Also please note that all of your files will be deleted after you log out from the server. There is no way for us to save or retrieve your files. Please ensure you download anything you need before logging out.
 
 ## Backup servers
 
 If for some reason the workshop server above is not available, you can try
-one of the backup servers below.
+one of the backup servers below running on Microsoft Azure below.
 
-* Backup 1 (Azure-Europe) : <a href="http://51.145.134.181/hub/tmplogin" target="_blank">Log in</a> | <a href="http://51.145.134.181" target="_blank">Reconnect</a>
-* Backup 2 (Azure-USA) : <a href="https://workshop.biosimspace.org/hub/tmplogin" target="_blank">Log in</a> | <a href="https://workshop.biosimspace.org" target="_blank">Reconnect</a>
-* Backup 3 (Oracle-Europe) : <a href="http://130.61.69.221/hub/tmplogin" target="_blank">Log in</a> | <a href="http://130.61.69.221" target="_blank">Reconnect</a>
-
-(note that Backup Server 3 is kindly provided by the 
-[Oracle Cloud Infrastructure](https://cloud.oracle.com/home))
+* Backup 1 (Azure-Europe - 32 vcores) : <a href="http://137.117.134.245/hub/tmplogin" target="_blank">Log in</a> | <a href="http://137.117.134.245" target="_blank">Reconnect</a>
+* Backup 2 (Azure-Europe - 8 vcores) : <a href="http://51.145.134.181/hub/tmplogin" target="_blank">Log in</a> | <a href="http://51.145.134.181" target="_blank">Reconnect</a>
+* Backup 3 (Azure-USA - 8 vcores) : <a href="https://workshop.biosimspace.org/hub/tmplogin" target="_blank">Log in</a> | <a href="https://workshop.biosimspace.org" target="_blank">Reconnect</a>
 
 ## Browser compatibility
 
