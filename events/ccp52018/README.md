@@ -18,6 +18,17 @@ You can talk with each other and the trainers using the
 <a href="https://etherpad.net/p/ccpbiosim_ccp518" target="_blank">workshop etherpad</a>. Please
 keep discussion respectful and remember the [code of conduct](https://ccpbiosim.github.io/workshop/events/bristol2018/conduct.html).
 
+## Feedback
+
+We are very interested in your comments about any aspect of the CCPBioSim contribution
+to the CCP5 Summer School. Please use the below form to anonymously comment on any
+aspect of our programme, e.g. the lectures or the practicals. You are the first people
+to use parts of BioSimSpace, so we are particularly interested in your complaints,
+comments and suggestions for BioSimSpace, and you experience of using these
+cloud-based Jupyter notebooks for running simulations.
+
+<a href="https://goo.gl/forms/qRVJpLUzD5SdhRgJ2" target="_blank">Send feedback :-)</a>
+
 ## Programme
 
 ### Monday 16th July
