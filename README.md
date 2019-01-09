@@ -5,7 +5,7 @@ material and by running specific training workshop events.
 
 ## Upcoming events
 
-* [Leeds Workshops](event/leeds2019/README.md)
+* [Leeds Workshops](events/leeds2019/README.md)
 
 ## Past events
 

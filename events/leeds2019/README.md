@@ -26,7 +26,7 @@ keep discussion respectful and remember the [code of conduct](https://ccpbiosim.
 
 * 10.30 - 13.30 : Using VMD to visualise protein structures
 * 13.30 - 14.30 : Lunch
-* 14.30 - 17.30 : Validating your protein structures for simulation
+* 14.30 - 17.30 : [Setting up and Running Molecular Dynamics Simulations: Good Practice and Pitfalls](https://ccpbiosim.github.io/md_workshop/presentation)
 
 ### Friday 11th January
 
