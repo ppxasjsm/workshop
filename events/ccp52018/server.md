@@ -1,10 +1,10 @@
 # Workshop Server (and how to download at home)
 
-The workshops are running on a set of cloud servers provided by the [Oracle Cloud Infrastructure](https://cloud.oracle.com/home) and the [Microsoft Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/).
+The workshops are running on a set of cloud servers provided by the [Oracle Cloud Infrastructure](https://cloud.oracle.com/home).
 
-These have been configured to provide enough resource for lots of people to log in at the same time (the Oracle server has 72 virtual cores and 256 GB RAM!). There are no usernames or passwords. To log in, please click the below link (will open in new tab):
+These have been configured to provide enough resource for lots of people to log in at the same time (the Oracle server has 48 virtual cores - Intel(R) Xeon(R) Platinum 8167M CPU @ 2.00GHz - and 314 GB RAM!). There are no usernames or passwords. To log in, please click the below link (will open in new tab):
 
-<a href="http://130.61.69.221/hub/tmplogin" target="_blank">Log in to the Oracle server</a>
+<a href="https://notebook.biosimspace.org/hub/tmplogin" target="_blank">Log in to the Oracle server</a>
 
 Please only click this once, as it will log you into a new session. This may take between 30-60 seconds, so please be patient. *DO NOT CLICK MULTIPLE TIMES*, else you will launch too many sessions and may block anyone else from connecting.
 
@@ -12,7 +12,7 @@ Please only click this once, as it will log you into a new session. This may tak
 
 If you accidentally close the browser page you can reconnect to the server with your existing login using the below link (opens in new tab):
 
-<a href="http://130.61.69.221" target="_blank">Reconnect to the Oracle server</a>
+<a href="https://notebook.biosimspace.org" target="_blank">Reconnect to the Oracle server</a>
 
 ## Logging out when you are finished
 
@@ -25,11 +25,9 @@ Also please note that all of your files will be deleted after you log out from t
 ## Backup servers
 
 If for some reason the workshop server above is not available, you can try
-one of the backup servers below running on Microsoft Azure below.
+the backup server below.
 
-* Backup 1 (Azure-Europe - 32 vcores) : <a href="http://137.117.134.245/hub/tmplogin" target="_blank">Log in</a> | <a href="http://137.117.134.245" target="_blank">Reconnect</a>
-* Backup 2 (Azure-Europe - 8 vcores) : <a href="http://51.145.134.181/hub/tmplogin" target="_blank">Log in</a> | <a href="http://51.145.134.181" target="_blank">Reconnect</a>
-* Backup 3 (Azure-USA - 8 vcores) : <a href="https://workshop.biosimspace.org/hub/tmplogin" target="_blank">Log in</a> | <a href="https://workshop.biosimspace.org" target="_blank">Reconnect</a>
+* Backup server : <a href="https://notebook.acquire-aaai.com/hub/tmplogin" target="_blank">Log in</a> | <a href="https://notebook.acquire-aaai.com" target="_blank">Reconnect</a>
 
 ## Browser compatibility
 
@@ -43,19 +41,19 @@ You can test if your browser supports WebSockets by
 
 Once logged in, you will find a [JupyterHub](https://jupyter.org) browser with directories for all of the workshops. The instructions that come with each workshop will tell you which directory to use.
 
-You will be allocated up to 2 cores and 1.8 GB of memory on the server, as it is intended for demonstration and training rather than production calculations.
+You will be allocated up to 2 cores and 5 GB of memory on the server, as it is intended for demonstration and training rather than production calculations.
 
 ## Running the workshop at home
 
-The server will remain online for the foreseeable future, and you are welcome to log in and use it after the workshop week is over. Please do not use the server during the workshop week when it is in use by other people (unless you are signed up to attend that workshop).
+The server will remain online for the foreseeable future, and you are welcome to log in and use it after the workshop week is over. 
 
 All software used during the workshop is open source, and so the workshop server image is available for free download. It is available on [docker](https://cloud.docker.com/swarm/chryswoods/repository/docker/chryswoods/bss-workshop/general). You can download and run it on your own computer by installing docker and then typing;
 
 ```
-docker run -it --rm chryswoods/bss-workshop:latest
+docker run -it chryswoods/bss-workshop:latest
 ```
 
-The image is at least 10GB in size, so may take a while to download (and you must have at least 10GB of free disk space).
+The image is several gigabytes in size, so may take a while to download (and you must have at least 10GB of free disk space).
 
 This will download and run the image, starting a Jupyter browser which you can connect to using the URL that will be printed out, looking something like;
 
