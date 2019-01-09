@@ -5,12 +5,12 @@ material and by running specific training workshop events.
 
 ## Upcoming events
 
-* [Leeds Workshops](events/leeds2019/README.md)
+* [Leeds Workshops](events/leeds2019)
 
 ## Past events
 
-* [CCP5 Summer School](events/ccp52018/README.md)
-* [Bristol 2018 Training Week](events/bristol2018/README.md)
+* [CCP5 Summer School](events/ccp52018)
+* [Bristol 2018 Training Week](events/bristol2018)
 
 ## Training resources
 
