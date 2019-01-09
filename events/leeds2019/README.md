@@ -24,13 +24,16 @@ keep discussion respectful and remember the [code of conduct](https://ccpbiosim.
 
 ### Thursday 10th January
 
-* 10.30 - 13.30 : Using VMD to visualise protein structures
-* 13.30 - 14.30 : Lunch
-* 14.30 - 17.30 : [Setting up and Running Molecular Dynamics Simulations: Good Practice and Pitfalls](https://ccpbiosim.github.io/md_workshop/Presentation)
+* 10.30 - 12.00 : Using VMD to visualise protein structures (part 1)
+* 12.00 - 13.00 : Lunch
+* 13.00 - 15.00 : Using VMD to visualise protein structures (part 2)
+* 15.00 - 15.30 : Break
+* 15.30 - 17.00 : [Setting up and Running Molecular Dynamics Simulations: Good Practice and Pitfalls](https://ccpbiosim.github.io/md_workshop/Presentation)
 
 ### Friday 11th January
 
 * 9.00 - 10.00 : [Introduction to Jupyter Notebooks and Python](https://ccpbiosim.github.io/python_and_data)
-* 10.00 - 12.00 : [Introduction to BioSimSpace](https://ccpbiosim.github.io/biosimspace_workshop)
+* 10.00 - 10.30 : Break
+* 10.30 - 12.00 : [Introduction to BioSimSpace](https://ccpbiosim.github.io/biosimspace_workshop)
 * 12.00 - 13.00 : Lunch
 * 13.00 - 15.30 : [Analysis of MD trajectories](https://ccpbiosim.github.io/md_workshop)
