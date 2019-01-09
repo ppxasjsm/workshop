@@ -24,7 +24,8 @@ keep discussion respectful and remember the [code of conduct](https://ccpbiosim.
 
 ### Thursday 10th January
 
-* 10.30 - 12.00 : Using VMD to visualise protein structures (part 1)
+* 10.30 - 11.00 : Welcome and introductions (plus logging onto the computers)
+* 11.00 - 12.00 : Using VMD to visualise protein structures (part 1)
 * 12.00 - 13.00 : Lunch
 * 13.00 - 15.00 : Using VMD to visualise protein structures (part 2)
 * 15.00 - 15.30 : Break
