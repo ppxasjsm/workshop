@@ -43,7 +43,7 @@ keep discussion respectful and remember the [code of conduct](https://ccpbiosim.
 * [Talk - Exploring Biology with Computational Microscopes](https://drive.google.com/file/d/1sn0PT3IJY71IM7z51q3TrMj3WdeRRwX7/view)
 * [Many other programming and biomodelling talks](https://chryswoods.com/talks)
 
-#### Timetable
+#### Timetable
 
 * 10.00 - 12.00 : [Introduction to BioSimSpace](https://ccpbiosim.github.io/biosimspace_workshop)
 * 12.00 - 13.00 : Lunch
