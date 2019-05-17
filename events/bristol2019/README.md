@@ -36,30 +36,29 @@ keep discussion respectful and remember the [code of conduct](https://ccpbiosim.
 
 ### Monday 20th May - Room W414, Chemistry Building
 
-* 11.00 - 13.00 : [Python for Biomolecular Modellers Part 1](https://ccpbiosim.github.io/python_and_data)
-* 13.00 - 14.30 : Lunch
-* 14.30 - 17.30 : [Python for Biomolecular Modellers Part 2](https://ccpbiosim.github.io/python_and_data)
+* 11.00 - 13.00 : [Introduction to Python and Jupyter Notebooks](https://ccpbiosim.github.io/python_and_data)
+* 13.00 - 14.00 : Lunch
+* 14.00 - 17.00 : [Setting up and Running Molecular Dynamics Simulations: Good Practice and Pitfalls](https://ccpbiosim.github.io/md_workshop)
 
 ### Tuesday 21st May - Room W414, Chemistry Building
 
-* 10.00 - 13.00 : [Setting up and Running Molecular Dynamics Simulations: Good Practice and Pitfalls](https://ccpbiosim.github.io/md_workshop)
-* 13.00 - 14.30 : Lunch
-* 14.30 - 17.30 : [Tackling Protein alchemistry with FESetup and Sire SOMD](https://ccpbiosim.github.io/fesetup_workshop)
+* 10.00 - 13.00 : [Introduction to BioSimSpace](https://ccpbiosim.github.io/biosimspace_workshop)
+* 13.00 - 14.00 : Lunch
+* 14.00 - 17.00 : [Free Energy Calculations with BioSimSpace]()
 
 ### Wednesday 22nd May - Room W414, Chemistry Building
 
-* 10.00 - 13.00 : [Alchemical Free Energy Simulation Analysis with analyse_freenrg](https://ccpbiosim.github.io/fe_analysis)
-* 13.00 - 14.30 : Lunch
-* 14.30 - 17.30 : [ISAMBARD: A Python-based API for Biomolecular Structure Analysis and Parametric Design of Protein Structures](https://ccpbiosim.github.io/isambard_workshop)
+* 10.00 - 13.00 : [Using Remote Resources Part 1: Longbow]()
+* 13.00 - 14.00 : Lunch
+* 14.00 - 17.00 : [Using Remote Resources Part 2: Crossbow]()
 
 ### Thursday 23rd May - Room W414, Chemistry Building
 
-* 10.00 - 13.00 : [Introduction to BioSimSpace](https://ccpbiosim.github.io/biosimspace_workshop)
+* 10.00 - 11.00 : [Introduction to Markov State Modelling Part 1]()
+* 11.15 - 12.30 : [Future of Biomolecular Simulation Community Meeting]()
 * 13.00 - 14.30 : Lunch
-* 14.30 - 17.30 : [Visualising Binding Free Energies Using Swap-based Methods](https://ccpbiosim.github.io/xswaps)
+* 14.00 - 17.00 : [Introduction to Markov State Modelling Part 2]()
 
 ### Friday 24th May - Room W414, Chemistry Building
 
-* 10.00 - 13.00 : [QM/MM Modelling of Enzyme Reactions](https://ccpbiosim.github.io/qmmm_workshop)
-* 13.00 - 14.30 : Lunch
-* 14.30 - 17.30 : [Calculating Water Affinities in Protein Binding Sites with Grand Canonical Monte Carlo and ProtoMS](https://ccpbiosim.github.io/gcmc_protoms_workshop)
+* 10.00 - 13.00 : [Advanced Simulation Methods: QM/MM](https://ccpbiosim.github.io/qmmm_workshop)
