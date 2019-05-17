@@ -48,16 +48,16 @@ keep discussion respectful and remember the [code of conduct](https://ccpbiosim.
 
 ### Wednesday 22nd May - Room W414, Chemistry Building
 
-* 10.00 - 13.00 : [Using Remote Resources Part 1: Longbow](https://github.com/CCPBioSim/longbow-workshop)
+* 10.00 - 13.00 : [Using Remote Resources Part 1: Longbow](https://ccpbiosim.github.io/longbow-workshop)
 * 13.00 - 14.00 : Lunch
-* 14.00 - 17.00 : [Using Remote Resources Part 2: Crossbow](https://github.com/CCPBioSim/longbow-workshop)
+* 14.00 - 17.00 : [Using Remote Resources Part 2: Crossbow](https://ccpbiosim.github.io/longbow-workshop)
 
 ### Thursday 23rd May - Room W414, Chemistry Building
 
-* 10.00 - 11.00 : [Introduction to Markov State Modelling Part 1](https://github.com/CCPBioSim/msm_workshop)
+* 10.00 - 11.00 : [Introduction to Markov State Modelling Part 1](https://ccpbiosim.github.io/msm_workshop)
 * 11.15 - 12.30 : [Future of Biomolecular Simulation Community Meeting]()
 * 13.00 - 14.30 : Lunch
-* 14.00 - 17.00 : [Introduction to Markov State Modelling Part 2](https://github.com/CCPBioSim/msm_workshop)
+* 14.00 - 17.00 : [Introduction to Markov State Modelling Part 2](https://ccpbiosim.github.io/msm_workshop)
 
 ### Friday 24th May - Room W414, Chemistry Building
 
