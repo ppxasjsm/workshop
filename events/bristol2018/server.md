@@ -4,7 +4,7 @@ The workshops are running on a set of cloud servers provided by the [Oracle Clou
 
 These have been configured to provide enough resource for lots of people to log in at the same time (the Oracle server has 48 virtual cores - Intel(R) Xeon(R) Platinum 8167M CPU @ 2.00GHz - and 314 GB RAM!). There are no usernames or passwords. To log in, please click the below link (will open in new tab):
 
-<a href="https://notebook.biosimspace.org/hub/tmplogin" target="_blank">Log in to the Oracle server</a>
+<a href="http://132.145.243.165/" target="_blank">Log in to the Oracle server</a>
 
 Please only click this once, as it will log you into a new session. This may take between 30-60 seconds, so please be patient. *DO NOT CLICK MULTIPLE TIMES*, else you will launch too many sessions and may block anyone else from connecting.
 
@@ -18,23 +18,16 @@ If you accidentally close the browser page you can reconnect to the server with 
 
 *PLEASE LOG OUT WHEN YOU ARE FINISHED*. You can log out by clicking on the "Logout" icon in the top right of the screen. Logging out will free up your session so that it can be used by someone else.
 
-Note that you will be kept logged in for as long as the server page is open in your browser. You will only be automatically logged out about 60 minutes after you have closed the server page. 
+Note that you will be kept logged in for as long as the server page is open in your browser. You will only be automatically logged out about 60 minutes after you have closed the server page.
 
 Also please note that all of your files will be deleted after you log out from the server. There is no way for us to save or retrieve your files. Please ensure you download anything you need before logging out.
 
-## Backup servers
-
-If for some reason the workshop server above is not available, you can try
-the backup server below.
-
-* Backup server : <a href="https://notebook.acquire-aaai.com/hub/tmplogin" target="_blank">Log in</a> | <a href="https://notebook.acquire-aaai.com" target="_blank">Reconnect</a>
-
 ## Browser compatibility
 
-The 3D molecule viewer embedded in the Jupyter notebooks requires that you 
+The 3D molecule viewer embedded in the Jupyter notebooks requires that you
 access the workshop using a modern browser that supports WebSockets (e.g
 chrome, firefox, safari, edge and modern versions of internet explorer).
-You can test if your browser supports WebSockets by 
+You can test if your browser supports WebSockets by
 <a href="http://websocketstest.com" target="_blank">visiting this page</a>.
 
 ## Server details
@@ -45,7 +38,7 @@ You will be allocated up to 2 cores and 5 GB of memory on the server, as it is i
 
 ## Running the workshop at home
 
-The server will remain online for the foreseeable future, and you are welcome to log in and use it after the workshop week is over. 
+The server will remain online for the foreseeable future, and you are welcome to log in and use it after the workshop week is over.
 
 All software used during the workshop is open source, and so the workshop server image is available for free download. It is available on [docker](https://cloud.docker.com/swarm/chryswoods/repository/docker/chryswoods/bss-workshop/general). You can download and run it on your own computer by installing docker and then typing;
 
@@ -65,13 +58,13 @@ This will download and run the image, starting a Jupyter browser which you can c
 
 Note that the image can only be run on computers with X86-64 processors that support AVX instructions (e.g. like most Intel processors since 2011).
 
-The workshop image will be updated over time. To get the latest version please run 
+The workshop image will be updated over time. To get the latest version please run
 
 ```
 docker pull chryswoods/bss-workshop:latest
 ```
 
-You should also run the command 
+You should also run the command
 
 ```
 update_workshops
