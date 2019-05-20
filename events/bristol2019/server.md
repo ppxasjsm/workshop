@@ -10,7 +10,7 @@ For BioSimSpace related workshops use this server:
 
 For all other workshops please use this server:
 
-<a href="https://132.145.243.165" target="_blank">CCPBioSim workshop server</a>
+<a href="http://132.145.243.165" target="_blank">CCPBioSim workshop server</a>
 
 Please only click this once, as it will log you into a new session. This may take between 30-60 seconds, so please be patient. *DO NOT CLICK MULTIPLE TIMES*, else you will launch too many sessions and may block anyone else from connecting.
 
