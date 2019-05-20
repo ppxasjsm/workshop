@@ -2,9 +2,15 @@
 
 The workshops are running on a set of cloud servers provided by the [Oracle Cloud Infrastructure](https://cloud.oracle.com/home).
 
-These have been configured to provide enough resource for lots of people to log in at the same time (the Oracle server has 48 virtual cores - Intel(R) Xeon(R) Platinum 8167M CPU @ 2.00GHz - and 314 GB RAM!). There are no usernames or passwords. To log in, please click the below link (will open in new tab):
+These have been configured to provide enough resource for lots of people to log in at the same time (the Oracle server has 48 virtual cores - Intel(R) Xeon(R) Platinum 8167M CPU @ 2.00GHz - and 314 GB RAM!). There are no usernames or passwords. To log in, please click the appropriate link below (will open in new tab).
 
-<a href="https://notebook.biosimspace.org/hub/tmplogin" target="_blank">Log in to the Oracle server</a>
+For BioSimSpace related workshops use this server:
+
+<a href="https://notebook.biosimspace.org/hub/tmplogin" target="_blank">BioSimSpace workshop server</a>
+
+For all other workshops please use this server:
+
+<a href="https://132.145.243.165" target="_blank">CCPBioSim workshop server</a>
 
 Please only click this once, as it will log you into a new session. This may take between 30-60 seconds, so please be patient. *DO NOT CLICK MULTIPLE TIMES*, else you will launch too many sessions and may block anyone else from connecting.
 
@@ -12,7 +18,9 @@ Please only click this once, as it will log you into a new session. This may tak
 
 If you accidentally close the browser page you can reconnect to the server with your existing login using the below link (opens in new tab):
 
-<a href="https://notebook.biosimspace.org" target="_blank">Reconnect to the Oracle server</a>
+<a href="https://notebook.biosimspace.org" target="_blank">BioSimSpace workshop server</a>
+
+
 
 ## Logging out when you are finished
 
