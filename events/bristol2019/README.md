@@ -44,7 +44,7 @@ keep discussion respectful and remember the [code of conduct](https://ccpbiosim.
 
 * 10.00 - 13.00 : [Introduction to BioSimSpace](https://ccpbiosim.github.io/biosimspace_workshop)
 * 13.00 - 14.00 : Lunch
-* 14.00 - 17.00 : [Free Energy Calculations with BioSimSpace](https://ccpbiosim.github.io/CCPBioSim/BSS_alchemistry_2019)
+* 14.00 - 17.00 : [Free Energy Calculations with BioSimSpace](https://ccpbiosim.github.io/BSS_alchemistry_2019)
 
 ### Wednesday 22nd May - Room W414, Chemistry Building
 
